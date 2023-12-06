@@ -702,3 +702,147 @@ Received Import Request.
 Start importing Assets/New Material 5.mat using Guid(1042d0af07ec8184f8936a28f51c2483) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a104f6deda44ef7b4d1e815fa2f3d507') in 0.383265 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 218.398368 seconds.
+  path: Assets/Untitled_Artwork.jpeg
+  artifactKey: Guid(076f278fb228d4a1c8de9dd1ceae1a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Untitled_Artwork.jpeg using Guid(076f278fb228d4a1c8de9dd1ceae1a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35cda572af669da528b9715c2d0a2b5e') in 0.140106 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 12.115159 seconds.
+  path: Assets/New Material 15.mat
+  artifactKey: Guid(0d2e0407ea51b4264b90e6c2d9f72523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 15.mat using Guid(0d2e0407ea51b4264b90e6c2d9f72523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e0d553a4f69d32ba7dcc51c21d5a1b') in 0.118617 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 173.079554 seconds.
+  path: Assets/Untitled_Artwork 1.jpeg
+  artifactKey: Guid(989d7cad1a35f42ea94bd1893230bf11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Untitled_Artwork 1.jpeg using Guid(989d7cad1a35f42ea94bd1893230bf11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4faa5b714130b979da9b5897e43b5c') in 0.075476 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.145151 seconds.
+  path: Assets/Untitled_Artwork 2.jpeg
+  artifactKey: Guid(4c87259300df441808ab8debc54a1e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Untitled_Artwork 2.jpeg using Guid(4c87259300df441808ab8debc54a1e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06485dd807bb9551b9e6dfb147ac85f2') in 0.013211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 13.313702 seconds.
+  path: Assets/New Material 16.mat
+  artifactKey: Guid(db4af19fdef044429a21b2eb7891e716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 16.mat using Guid(db4af19fdef044429a21b2eb7891e716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdd6ff8d8c4e8c06a8afe31ebd409de3') in 0.044591 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 37.516967 seconds.
+  path: Assets/New Material 17.mat
+  artifactKey: Guid(0a1951153adc64bcfa6d00fc12830196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 17.mat using Guid(0a1951153adc64bcfa6d00fc12830196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf8e204d494dd5f1e82ee92e3e5559d') in 0.047648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 18.609384 seconds.
+  path: Assets/New Material 15.mat
+  artifactKey: Guid(0d2e0407ea51b4264b90e6c2d9f72523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 15.mat using Guid(0d2e0407ea51b4264b90e6c2d9f72523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bb298f72de85e159908171f8047150f') in 0.087257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001558 seconds.
+  path: Assets/New Material 17.mat
+  artifactKey: Guid(0a1951153adc64bcfa6d00fc12830196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material 17.mat using Guid(0a1951153adc64bcfa6d00fc12830196) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14d34b0daa1d9b3f162f5dbd3ba80b3a') in 0.017873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.743 seconds
+Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
+Native extension for OSXStandalone target not found
+System.Exception: Error! Visual Scripting: couldn't find visual scripting package
+  at Unity.VisualScripting.PackageVersionUtility.get_version () [0x00043] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Utilities/PackageVersionUtility.cs:31 
+  at Unity.VisualScripting.BoltCoreManifest.get_version () [0x00000] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Plugin/BoltCoreManifest.cs:11 
+  at Unity.VisualScripting.PluginManifest.get_currentVersion () [0x00000] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Plugins/PluginManifest.cs:33 
+  at Unity.VisualScripting.PluginManifest.get_versionMismatch () [0x00000] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Plugins/PluginManifest.cs:48 
+  at Unity.VisualScripting.PluginContainer.Initialize () [0x00525] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Plugins/PluginContainer.cs:208 
+  at Unity.VisualScripting.PluginContainer.InitializeOnLoad () [0x00009] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Plugins/PluginContainer.cs:32 
+  at Unity.VisualScripting.VSUsageUtility.DoInitializeOnLoadCalls () [0x00034] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Utilities/VSUsageUtility.cs:76 
+  at Unity.VisualScripting.VSUsageUtility.set_isVisualScriptingUsed (System.Boolean value) [0x0002c] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Utilities/VSUsageUtility.cs:114 
+  at Unity.VisualScripting.VSUsageUtility.CheckAndSetIsVisualScriptingUsed () [0x0000d] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Utilities/VSUsageUtility.cs:33 
+  at Unity.VisualScripting.VSUsageUtility..cctor () [0x00000] in ./Library/PackageCache/com.unity.visualscripting@1.9.0/Editor/VisualScripting.Core/Utilities/VSUsageUtility.cs:22 
+UnityEngine.StackTraceUtility:ExtractStackTrace () (at /Users/bokken/build/output/unity/unity/Runtime/Export/Scripting/StackTrace.cs:37)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[]) (at /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs:123)
+
+(Filename: /Users/bokken/build/output/unity/unity/Editor/Mono/EditorAssemblies.cs Line: 123)
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.695 seconds
+Domain Reload Profiling: 5441ms
+	BeginReloadAssembly (631ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (64ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (132ms)
+	RebuildCommonClasses (75ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (120ms)
+	LoadAllAssembliesAndSetupDomain (898ms)
+		LoadAssemblies (685ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (464ms)
+			TypeCache.Refresh (449ms)
+				TypeCache.ScanAssembly (431ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (3697ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2232ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (16ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (204ms)
+			ProcessInitializeOnLoadAttributes (1814ms)
+			ProcessInitializeOnLoadMethodAttributes (172ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3170 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 17 unused Assets / (77.9 KB). Loaded Objects now: 3764.
+Memory consumption went from 163.9 MB to 163.9 MB.
+Total: 14.567792 ms (FindLiveObjects: 0.253792 ms CreateObjectMapping: 0.135291 ms MarkObjects: 13.945500 ms  DeleteObjects: 0.231333 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
