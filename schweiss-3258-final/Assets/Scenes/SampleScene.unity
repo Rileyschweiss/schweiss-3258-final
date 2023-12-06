@@ -8067,6 +8067,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1 (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6571873185050873877, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_LocalPosition.x
       value: 15.88
@@ -8787,6 +8791,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b8b1dd63e67708a49a2bdef0b474f6c3, type: 3}
+--- !u!1 &461597936 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5599567905368231527, guid: c112cf99292934b999db845ed4a4336b, type: 3}
+  m_PrefabInstance: {fileID: 3106369518530246126}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &490001982
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8915,7 +8924,7 @@ GameObject:
   - component: {fileID: 501462811}
   - component: {fileID: 501462810}
   - component: {fileID: 501462809}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Plane (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9919,7 +9928,7 @@ GameObject:
   - component: {fileID: 625382635}
   - component: {fileID: 625382634}
   - component: {fileID: 625382633}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Plane (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11025,7 +11034,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 041bb2a2a3d11f94589a891233746c42, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.71
+      value: -0.762
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 041bb2a2a3d11f94589a891233746c42, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12532,6 +12541,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1 (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6571873185050873877, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_LocalPosition.x
       value: 17.21
@@ -13681,7 +13694,7 @@ GameObject:
   - component: {fileID: 1108261556}
   - component: {fileID: 1108261555}
   - component: {fileID: 1108261554}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15062,6 +15075,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5f4aebccf815a06438be306c740cd536, type: 3}
       propertyPath: m_Name
       value: bridge_wood
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5f4aebccf815a06438be306c740cd536, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18882,6 +18899,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6571873185050873877, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_LocalPosition.x
       value: 12.39
@@ -19026,7 +19047,7 @@ GameObject:
   - component: {fileID: 1900078423}
   - component: {fileID: 1900078422}
   - component: {fileID: 1900078421}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Plane
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19570,7 +19591,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!195 &1946262787
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -25384,6 +25405,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1 (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 6571873185050873877, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_LocalPosition.x
       value: 14.23
@@ -26194,22 +26219,26 @@ PrefabInstance:
       value: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"movespeed","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
         mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"gravity","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"typeHandle":{"Identification":"UnityEngine.Vector3,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"ingrounded","value":{"$content":false,"$type":"System.Boolean"},"typeHandle":{"Identification":"System.Boolean,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"groundchecker","value":null,"typeHandle":{"Identification":"UnityEngine.GameObject,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"groundchecker","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"rotatespeed","value":{"$content":90.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
-        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"winpanel","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"feet","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"winpanel","value":{"$content":1,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
+        UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"feet","value":{"$content":2,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
         UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
       objectReference: {fileID: 0}
     - target: {fileID: 6791563906941888877, guid: c112cf99292934b999db845ed4a4336b, type: 3}
       propertyPath: _data._objectReferences.Array.size
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6791563906941888877, guid: c112cf99292934b999db845ed4a4336b, type: 3}
       propertyPath: _data._objectReferences.Array.data[0]
       value: 
-      objectReference: {fileID: 1155413287}
+      objectReference: {fileID: 461597936}
     - target: {fileID: 6791563906941888877, guid: c112cf99292934b999db845ed4a4336b, type: 3}
       propertyPath: _data._objectReferences.Array.data[1]
+      value: 
+      objectReference: {fileID: 1155413287}
+    - target: {fileID: 6791563906941888877, guid: c112cf99292934b999db845ed4a4336b, type: 3}
+      propertyPath: _data._objectReferences.Array.data[2]
       value: 
       objectReference: {fileID: 2144028429}
     - target: {fileID: 7270155305968995429, guid: c112cf99292934b999db845ed4a4336b, type: 3}
@@ -26218,7 +26247,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7270155305968995429, guid: c112cf99292934b999db845ed4a4336b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.09
+      value: 0.627
       objectReference: {fileID: 0}
     - target: {fileID: 7270155305968995429, guid: c112cf99292934b999db845ed4a4336b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -26276,6 +26305,10 @@ PrefabInstance:
     - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Name
       value: cliff_blockSlope_rock
+      objectReference: {fileID: 0}
+    - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 6571873185050873877, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_LocalPosition.x
