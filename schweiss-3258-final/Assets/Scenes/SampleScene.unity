@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.34961808, g: 0.3487743, b: 0.31363273, a: 1}
+  m_IndirectSpecularColor: {r: 0.45135784, g: 0.500351, b: 0.5696367, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -5694,6 +5694,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (10)
@@ -6211,6 +6215,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (15)
@@ -6685,6 +6693,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf718098a5dd8c84489317b09dac8b0f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 919132149155446097, guid: cf718098a5dd8c84489317b09dac8b0f, type: 3}
       propertyPath: m_Name
       value: tree_thin (1)
@@ -6748,7 +6760,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 5d5e8fd96051cc34fb8d9538f1a80958, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: dc46827e64691df4eb3ef4ca3e3145d1, type: 2}
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
     - target: {fileID: 919132149155446097, guid: 5d5e8fd96051cc34fb8d9538f1a80958, type: 3}
       propertyPath: m_Name
       value: lightpost-all
@@ -12009,7 +12021,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 29b3561e827f653429e2c3544aa9c6b7, type: 2}
+  - {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -13022,7 +13034,7 @@ PrefabInstance:
     - target: {fileID: 5438332992357444474, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1 (3)
@@ -13116,7 +13128,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 29b3561e827f653429e2c3544aa9c6b7, type: 2}
+  - {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19085,7 +19097,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+  - {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -19893,6 +19905,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (12)
@@ -20202,6 +20218,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2b388529e69ebcb4da86c7008f08e95b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 919132149155446097, guid: 2b388529e69ebcb4da86c7008f08e95b, type: 3}
       propertyPath: m_Name
       value: tree_pineRoundF (1)
@@ -20262,6 +20282,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -760654363239577228, guid: c06b485631b65704d921fcd73fe797dc, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: c06b485631b65704d921fcd73fe797dc, type: 3}
       propertyPath: m_Name
       value: fence_planks (6)
@@ -20345,7 +20369,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+  - {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -20737,6 +20761,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: cf718098a5dd8c84489317b09dac8b0f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 919132149155446097, guid: cf718098a5dd8c84489317b09dac8b0f, type: 3}
       propertyPath: m_Name
       value: tree_thin
@@ -21096,6 +21124,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bf8475cf3990b3248916ea1a8e9448a1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
+    - target: {fileID: -7511558181221131132, guid: bf8475cf3990b3248916ea1a8e9448a1, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
     - target: {fileID: 919132149155446097, guid: bf8475cf3990b3248916ea1a8e9448a1, type: 3}
       propertyPath: m_Name
       value: tree_pineTallD_detailed
@@ -21255,13 +21291,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.4946193, y: 0.11780955, z: -0.8307847, w: -0.22642781}
+  m_LocalRotation: {x: 0.26759124, y: 0.5829621, z: -0.6035207, w: -0.47361693}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -1.618, y: 298.891, z: 150.464}
+  m_LocalEulerAnglesHint: {x: 26.756, y: 281.44, z: 81.738}
 --- !u!1 &711211008
 GameObject:
   m_ObjectHideFlags: 0
@@ -26684,7 +26720,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 514b150f0ccb2f04790ec27801adf974, type: 2}
+  - {fileID: 2100000, guid: 161d95d7677414fbc9f3fa9169dde282, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -27369,6 +27405,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 7849db75088ab08449bc420c9ae7837c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 7849db75088ab08449bc420c9ae7837c, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
     - target: {fileID: 919132149155446097, guid: 7849db75088ab08449bc420c9ae7837c, type: 3}
       propertyPath: m_Name
       value: tree_oak (1)
@@ -27905,7 +27949,7 @@ PrefabInstance:
     - target: {fileID: 5438332992357444474, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1 (2)
@@ -28707,6 +28751,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2b388529e69ebcb4da86c7008f08e95b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 2b388529e69ebcb4da86c7008f08e95b, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
     - target: {fileID: 919132149155446097, guid: 2b388529e69ebcb4da86c7008f08e95b, type: 3}
       propertyPath: m_Name
       value: tree_pineRoundF (2)
@@ -29082,7 +29134,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+  - {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -29912,6 +29964,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (11)
@@ -30026,6 +30082,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 7849db75088ab08449bc420c9ae7837c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 7849db75088ab08449bc420c9ae7837c, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
     - target: {fileID: 919132149155446097, guid: 7849db75088ab08449bc420c9ae7837c, type: 3}
       propertyPath: m_Name
       value: tree_oak
@@ -30380,6 +30444,18 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 5f4aebccf815a06438be306c740cd536, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 5f4aebccf815a06438be306c740cd536, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 5f4aebccf815a06438be306c740cd536, type: 3}
+      propertyPath: m_Materials.Array.data[2]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6c3592facb84c4ab1999f97e673ec71d, type: 2}
     - target: {fileID: 919132149155446097, guid: 5f4aebccf815a06438be306c740cd536, type: 3}
       propertyPath: m_Name
       value: bridge_wood
@@ -31047,6 +31123,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (9)
@@ -32680,6 +32760,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (3)
@@ -32737,6 +32821,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: bf8475cf3990b3248916ea1a8e9448a1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 919132149155446097, guid: bf8475cf3990b3248916ea1a8e9448a1, type: 3}
       propertyPath: m_Name
       value: tree_pineTallD_detailed (1)
@@ -33118,6 +33206,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (4)
@@ -33583,6 +33675,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge
@@ -34008,6 +34104,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (13)
@@ -34145,7 +34245,7 @@ PrefabInstance:
     - target: {fileID: 5438332992357444474, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1
@@ -34343,7 +34443,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+  - {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -40018,6 +40118,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 2b388529e69ebcb4da86c7008f08e95b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 919132149155446097, guid: 2b388529e69ebcb4da86c7008f08e95b, type: 3}
       propertyPath: m_Name
       value: tree_pineRoundF
@@ -40266,6 +40370,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a58afc541e244a49b6f6fab7878423f, type: 2}
     - target: {fileID: 919132149155446097, guid: 81522624c1bf4a640b7839f1c8a8688c, type: 3}
       propertyPath: m_Name
       value: grass_leafsLarge (14)
@@ -40639,7 +40747,7 @@ PrefabInstance:
     - target: {fileID: 5438332992357444474, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Name
       value: cliff_blockSlope_rock Variant 1 (1)
@@ -41247,7 +41355,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+  - {fileID: 2100000, guid: 3889a8f14b2764151a0c9f82f4099ec9, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -41446,9 +41554,13 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5438332992357444474, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5288d6d39793a4f21b001e4f3cebc15b, type: 2}
+    - target: {fileID: 5438332992357444474, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: adcbe69e03f332246a191dd6d4f14644, type: 2}
+      objectReference: {fileID: 2100000, guid: 14dfa453c11114790b48aa680d3c9013, type: 2}
     - target: {fileID: 5798432328416955055, guid: d8df0cf59d6e4a648b96157e35554102, type: 3}
       propertyPath: m_Name
       value: cliff_blockSlope_rock
